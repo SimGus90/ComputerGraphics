@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1677994407 source:c:\users\semyon\desktop\lab_2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_easy_font.h"
+	<string.h>
+	"stb-master/stb_image.h"
+
+1675018027 c:\users\semyon\desktop\lab_2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1677586645 source:c:\users\semyon\desktop\lab_2\src\gui.cpp
+	"GUI.h"
+
+1677587356 c:\users\semyon\desktop\lab_2\include\gui.h
+
+1677587429 source:c:\users\semyon\desktop\uncertain\lab_2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_easy_font.h"
+
+1674029754 c:\users\semyon\desktop\uncertain\lab_2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1675018027 c:\users\semyon\desktop\lab_2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1677996149 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_2\lab_2\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb-master/stb_easy_font.h"
+	<string.h>
+	"stb-master/stb_image.h"
+
+1675018027 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_2\lab_2\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1675018027 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_2\lab_2\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
