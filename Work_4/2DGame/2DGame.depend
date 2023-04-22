@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1682189417 source:c:\users\semyon\desktop\2dgame\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+	<stdbool.h>
+
+1675018028 c:\users\semyon\desktop\2dgame\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1675018028 c:\users\semyon\desktop\2dgame\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1681792188 source:d:\ИРНИТУ\Семестр 4\КГ\work_4\2dgame\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+	<stdbool.h>
+
+1675018028 d:\ИРНИТУ\Семестр 4\КГ\work_4\2dgame\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1675018028 d:\ИРНИТУ\Семестр 4\КГ\work_4\2dgame\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1682189417 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_4\2dgame\main.c
+	<windows.h>
+	<gl/gl.h>
+	"stb_easy_font.h"
+	<string.h>
+	"stb_image.h"
+	<stdbool.h>
+
+1675018028 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_4\2dgame\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1675018028 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_4\2dgame\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
