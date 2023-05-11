@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1682225768 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_5\3d\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1682225712 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_5\3d\camera.h
+
+1682225214 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_5\3d\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.cpp"
+
+1682225352 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_5\3d\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1682227460 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_5\3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+
+1682225078 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_5\3d\headers\camera.h
+
+1682225770 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_6\3d\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1682225714 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_6\3d\camera.h
+
+1683346513 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_6\3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
+1682225770 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_7\3d\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
+1682225714 c:\users\semyon\desktop\istu\Семестр 4\КГ\work_7\3d\camera.h
+
+1683803494 source:c:\users\semyon\desktop\istu\Семестр 4\КГ\work_7\3d\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<cmath>
+
